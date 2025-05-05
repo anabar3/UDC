@@ -19,18 +19,12 @@
 [submodule "Paradigmas_Programacion/ParadigmasProgramaci-n"]
 	path = Paradigmas_Programacion/ParadigmasProgramaci-n
 	url = https://github.com/anabar3/ParadigmasProgramaci-n.git
-[submodule "DS"]
-	path = DS
-	url = https://github.com/anabar3/DS_Projects.git
 [submodule "Parallelism/Parallelism_1"]
 	path = Parallelism/Parallelism_1
 	url = https://github.com/anabar3/Parallelism_1.git
 [submodule "Parallelism/Parallelism_2"]
 	path = Parallelism/Parallelism_2
 	url = https://github.com/anabar3/Parallelism_2.git
-[submodule "SI/SI_1"]
-	path = SI/SI_1
-	url = https://github.com/anabar3/SI_1.git
 [submodule "Intelligent_Systems/SI_1"]
 	path = Intelligent_Systems/SI_1
 	url = https://github.com/anabar3/SI_1.git
