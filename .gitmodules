@@ -1,0 +1,39 @@
+[submodule "Operating_Systems/Shell_OS"]
+	path = Operating_Systems/Shell_OS
+	url = https://github.com/anabar3/Shell_OS.git
+[submodule "Algorithms/P1_Algorithms"]
+	path = Algorithms/P1_Algorithms
+	url = https://github.com/anabar3/P1_Algorithms.git
+[submodule "Algorithms/P2_Algorithms"]
+	path = Algorithms/P2_Algorithms
+	url = https://github.com/anabar3/P2_Algorithms.git
+[submodule "Algorithms/P3_Algorithms"]
+	path = Algorithms/P3_Algorithms
+	url = https://github.com/anabar3/P3_Algorithms.git
+[submodule "Algorithms/P4_Algorithms"]
+	path = Algorithms/P4_Algorithms
+	url = https://github.com/anabar3/P4_Algorithms.git
+[submodule "Programming_2/P2_Programming2"]
+	path = Programming_2/P2_Programming2
+	url = https://github.com/anabar3/P2_Programming2.git
+[submodule "Paradigmas_Programacion/ParadigmasProgramaci-n"]
+	path = Paradigmas_Programacion/ParadigmasProgramaci-n
+	url = https://github.com/anabar3/ParadigmasProgramaci-n.git
+[submodule "DS"]
+	path = DS
+	url = https://github.com/anabar3/DS_Projects.git
+[submodule "Parallelism/Parallelism_1"]
+	path = Parallelism/Parallelism_1
+	url = https://github.com/anabar3/Parallelism_1.git
+[submodule "Parallelism/Parallelism_2"]
+	path = Parallelism/Parallelism_2
+	url = https://github.com/anabar3/Parallelism_2.git
+[submodule "SI/SI_1"]
+	path = SI/SI_1
+	url = https://github.com/anabar3/SI_1.git
+[submodule "Intelligent_Systems/SI_1"]
+	path = Intelligent_Systems/SI_1
+	url = https://github.com/anabar3/SI_1.git
+[submodule "Software_Design"]
+	path = Software_Design
+	url = https://github.com/anabar3/DS_Projects.git
